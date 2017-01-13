@@ -1,0 +1,41 @@
+@charset "utf-8";
+body {
+    font-size: 12px;
+    margin: 0px;
+    padding: 0px;
+    font-family: "黑体";
+    color: #999999;
+}
+
+a {
+    outline-style: none;
+    color: #535353;
+    text-decoration: none;
+}
+
+.lf {
+    float: left;
+}
+
+.rt {
+    float: right;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.clear {
+    clear: both;
+}
+
+.poptitle {
+    float: left;
+    vertical-align: top;
+    line-height: 16px;
+    width: 38px;!important;
+    white-space: nowrap;
+    word-break: keep-all;
+    font-family: "黑体";
+}
+
